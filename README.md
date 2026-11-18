@@ -1,5 +1,13 @@
 # EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
 
+## DATE: 18.11.26
+## NAME: SHAURYA KAKKAR
+## REG NO.: RA2511030010334
+## DEPARTMENT: Networking and Communications
+## SECTION: Y1
+
+---
+
 ## 1. Aim
 
 To design, implement, simplify, and verify combinational logic circuits using Boolean algebra and digital logic gates.
